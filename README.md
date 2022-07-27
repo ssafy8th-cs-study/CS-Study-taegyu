@@ -1,6 +1,10 @@
 # CS-Study
 8기 19반 CS스터디입니다.
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
 
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 # [1. 자료구조](./content/자료구조.md)
 # [2. 알고리즘](./content/알고리즘.md)
 # [3. 네트워크](./content/네트워크.md)
