@@ -1,12 +1,21 @@
 {
-  "projectName": "REPOSITORYR_NAME",
-  "projectOwner": "REPOSITORY_OWNER_NAME",
+  "projectName": "CS-Study",
+  "projectOwner": "ssafy8th-cs-study",
   "files": [
     "README.md"
   ],
   "imageSize": 100,
   "commit": false,
   "contributors": [
+    {
+      "login": "suker80",
+      "name": "Choi Tae gyu ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39821474?v=4",
+      "profile": "https://github.com/suker80",
+      "contributions": [
+        "code"
+      ]
+    }
   ],
   "contributorsPerLine": 6,
   "repoType": "github",

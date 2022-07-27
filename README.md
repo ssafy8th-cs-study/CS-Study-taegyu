@@ -2,8 +2,16 @@
 8기 19반 CS스터디입니다.
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/suker80"><img src="https://avatars.githubusercontent.com/u/39821474?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Choi Tae gyu </b></sub></a><br /><a href="https://github.com/ssafy8th-cs-study/CS-Study/commits?author=suker80" title="Code">💻</a></td>
+  </tr>
+</table>
 
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 # [1. 자료구조](./content/자료구조.md)
 # [2. 알고리즘](./content/알고리즘.md)
