@@ -6,7 +6,11 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/suker80"><img src="https://avatars.githubusercontent.com/u/39821474?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Choi Tae gyu </b></sub></a><br /><a href="https://github.com/ssafy8th-cs-study/CS-Study/commits?author=suker80" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/irang6v6"><img src="https://avatars.githubusercontent.com/u/42470768?v=4?s=100" width="100px;" alt=""/><br /><sub><b>남이랑</b></sub></a><br /><a href="https://github.com/ssafy8th-cs-study/CS-Study/commits?author=irang6v6" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/bora2292"><img src="https://avatars.githubusercontent.com/u/110080343?v=4?s=100" width="100px;" alt=""/><br /><sub><b>bora</b></sub></a><br /><a href="https://github.com/ssafy8th-cs-study/CS-Study/commits?author=bora2292" title="Code">💻</a></td>
+
   </tr>
+
 </table>
 
 <!-- markdownlint-restore -->
