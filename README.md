@@ -17,6 +17,27 @@
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+# 참고하면 좋을자료
+
+[최태규] [오후 10:21] https://github.com/WooVictory/Ready-For-Tech-Interview
+
+https://demoversion.tistory.com/13
+
+https://krksap.tistory.com/1136
+
+https://github.com/devham76/tech-interview-study
+
+https://github.com/WeareSoft/tech-interview
+
+https://www.youtube.com/channel/UCW9WO6kfWQlz_D3NwU3j4Dg/videos
+
+https://www.youtube.com/channel/UCHFz--glnVVP1xBLA-8kltg
+
+https://www.youtube.com/playlist?list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH
+
+
 # [1. 자료구조](./content/자료구조.md)
 # [2. 알고리즘](./content/알고리즘.md)
 # [3. 네트워크](./content/네트워크.md)
