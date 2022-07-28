@@ -7,6 +7,7 @@
   <tr>
     <td align="center"><a href="https://github.com/suker80"><img src="https://avatars.githubusercontent.com/u/39821474?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Choi Tae gyu </b></sub></a><br /><a href="https://github.com/ssafy8th-cs-study/CS-Study/commits?author=suker80" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/juyeon-y"><img src="https://avatars.githubusercontent.com/u/52191425?v=4?s=100" width="100px;" alt=""/><br /><sub><b>juyeon-y</b></sub></a><br /><a href="https://github.com/ssafy8th-cs-study/CS-Study/commits?author=juyeon-y" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/hubhubhub98"><img src="https://avatars.githubusercontent.com/u/54929520?v=4?s=100" width="100px;" alt=""/><br /><sub><b>김영경</b></sub></a><br /><a href="https://github.com/ssafy8th-cs-study/CS-Study/commits?author=hubhubhub98" title="Code">💻</a></td>
   </tr>
 </table>
 
